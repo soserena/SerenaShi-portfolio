@@ -1,0 +1,195 @@
+---
+title: "Serena Shi"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<!-- HERO -->
+<section class="hero-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-7 col-md-8">
+        <p class="hero-eyebrow fade-up">Digital Marketing Specialist · M.S. Candidate, Cal Poly Pomona</p>
+        <h1 class="hero-name fade-up fade-up-d1">
+          Serena<br><em>Shi.</em>
+        </h1>
+        <p class="hero-tagline fade-up fade-up-d2">
+          Graduate digital marketing strategist turning customer behavior into conversion-focused campaigns. 
+          Fluent in data, content, and both sides of the Pacific.
+        </p>
+        <div class="hero-cta fade-up fade-up-d3">
+          <a href="digital-marketing.html" class="btn-primary-custom">View My Work</a>
+          <a href="resume.html" class="btn-outline-custom">Download Résumé</a>
+        </div>
+        <div class="hero-stats fade-up fade-up-d4">
+          <div class="stat-item">
+            <div class="stat-num">4+</div>
+            <div class="stat-label">Years of Experience</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">3</div>
+            <div class="stat-label">Brands Grown</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">10K+</div>
+            <div class="stat-label">Event Attendees Reached</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">2</div>
+            <div class="stat-label">Languages</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-4 d-none d-md-flex justify-content-end">
+        <div style="position:relative; width:300px; height:380px;">
+          <!-- Decorative border frame -->
+          <div style="position:absolute; bottom:-12px; right:-12px; width:100%; height:100%; border:2px solid #b5785a; border-radius:0; z-index:0;"></div>
+          <!-- Profile photo -->
+          <img
+            src="images/profile.jpg"
+            alt="Serena Shi"
+            style="position:relative; z-index:1; width:100%; height:100%; object-fit:cover; object-position:center top; display:block; border-radius:0;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT STRIP -->
+<section class="about-strip">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 mb-4 mb-lg-0">
+        <p class="section-eyebrow" style="color:#d4a882;">About Me</p>
+        <h2 style="font-size:2.2rem; font-weight:300; line-height:1.2;">
+          Where data meets <em>culture</em>.
+        </h2>
+        <div style="width:40px; height:1px; background:#b5785a; margin:1.5rem 0;"></div>
+      </div>
+      <div class="col-lg-7">
+        <p style="font-size:1rem; color:#c8bfb8; line-height:1.85; margin-bottom:1.25rem;">
+          I'm a bilingual digital marketing strategist completing my M.S. in Digital Marketing (STEM-Designated) 
+          at Cal Poly Pomona. My work bridges hands-on content creation with rigorous analytics — from 
+          launching influencer campaigns and editing branded video for TikTok, to implementing GA4 infrastructure 
+          and modeling conversion funnels.
+        </p>
+        <p style="font-size:1rem; color:#c8bfb8; line-height:1.85; margin-bottom:1.25rem;">
+          Beyond the spreadsheet, I'm a content creator on 
+          <a href="https://xhslink.com/m/93G7Bgn7Pfi" target="_blank" style="color:#d4a882;">Xiaohongshu (RED)</a> — 
+          China's leading lifestyle platform — and a part-time boba barista who brings the same care to 
+          crafting drinks as I do to crafting campaigns.
+        </p>
+        <p class="highlight">
+          "I believe the best marketing starts with genuine curiosity about people."
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT I DO -->
+<section class="content-section" style="background:#fff; padding:5rem 0;">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12 text-center">
+        <p class="section-eyebrow">Expertise</p>
+        <h2 class="section-title">What I Bring to the Table</h2>
+      </div>
+    </div>
+    <div class="skills-grid">
+      <div class="skill-block">
+        <div class="skill-label">Analytics & Data</div>
+        <div class="skill-items">GA4 · BigQuery · SQL · R · Tableau · Funnel Analysis · A/B Testing</div>
+      </div>
+      <div class="skill-block">
+        <div class="skill-label">Advertising & Growth</div>
+        <div class="skill-items">Meta Ads Manager · Google Ads · Campaign Optimization · Conversion Strategy</div>
+      </div>
+      <div class="skill-block">
+        <div class="skill-label">Email & CRM</div>
+        <div class="skill-items">Campaign Development · Segmentation · A/B Testing · Performance Tracking</div>
+      </div>
+      <div class="skill-block">
+        <div class="skill-label">Social & Content</div>
+        <div class="skill-items">Instagram · TikTok · Xiaohongshu · Influencer Campaigns · Video Production</div>
+      </div>
+      <div class="skill-block">
+        <div class="skill-label">SEO & Web</div>
+        <div class="skill-items">On-Page SEO · Blog SEO · Website Optimization · UX Collaboration</div>
+      </div>
+      <div class="skill-block">
+        <div class="skill-label">Languages</div>
+        <div class="skill-items">English (Fluent) · Mandarin Chinese (Native)</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SELECTED WORK PREVIEW -->
+<section class="content-section" style="padding:5rem 0; background:#faf8f5;">
+  <div class="container">
+    <div class="row align-items-end mb-4">
+      <div class="col-md-8">
+        <p class="section-eyebrow">Selected Work</p>
+        <h2 class="section-title">Recent Projects</h2>
+      </div>
+      <div class="col-md-4 text-md-end">
+        <a href="digital-marketing.html" class="btn-outline-custom">All Projects →</a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="project-card">
+          <span class="card-tag">Capstone · Analytics · Email</span>
+          <div class="card-title">From Clicks to Conversions: AI-Powered Email Personalization</div>
+          <p class="card-body-text">
+            Led a university-sponsored capstone project diagnosing website conversion issues for MEin3D. 
+            Designed an AI-driven email personalization strategy to improve form submission rates using 
+            funnel analysis and behavioral segmentation.
+          </p>
+          <div class="card-chips">
+            <span class="chip">GA4</span>
+            <span class="chip">Funnel Analysis</span>
+            <span class="chip">AI Personalization</span>
+            <span class="chip">Email Strategy</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="project-card">
+          <span class="card-tag">Brand Marketing · SEO · Social</span>
+          <div class="card-title">Full-Funnel Growth for Miraco Beauty</div>
+          <p class="card-body-text">
+            Managed end-to-end digital marketing for this indie WOC-owned skincare startup — from 
+            influencer partnerships and TikTok content to SEO coordination and email campaign development 
+            driving consistent revenue lift.
+          </p>
+          <div class="card-chips">
+            <span class="chip">Instagram</span>
+            <span class="chip">TikTok</span>
+            <span class="chip">SEO</span>
+            <span class="chip">Email Marketing</span>
+            <span class="chip">Influencer</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SOCIAL STRIP -->
+<section class="social-strip">
+  <div class="container">
+    <p class="social-label">Find Me Online</p>
+    <div class="social-links">
+      <a href="https://www.linkedin.com/in/serenashi" target="_blank" class="social-link">LinkedIn</a>
+      <a href="https://xhslink.com/m/93G7Bgn7Pfi" target="_blank" class="social-link">小红书 RED</a>
+      <a href="mailto:serenashi772010@gmail.com" class="social-link">Email Me</a>
+    </div>
+  </div>
+</section>
+```

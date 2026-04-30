@@ -1,0 +1,294 @@
+---
+title: "Digital Marketing Projects"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <p class="page-eyebrow">Portfolio</p>
+    <h1>Digital Marketing</h1>
+    <p class="page-subtitle">
+      Creative strategy, content production, brand development, and growth marketing — 
+      across beauty, tech, and consumer brands.
+    </p>
+  </div>
+</section>
+
+<div style="background:#faf8f5; padding:5rem 0;">
+<div class="container">
+
+<!-- BRAND LOGOS -->
+<div class="brand-strip mb-5">
+  <span class="brand-name">MEin3D</span>
+  <span style="color:#e0d5cd;">·</span>
+  <span class="brand-name">Miraco Beauty</span>
+  <span style="color:#e0d5cd;">·</span>
+  <span class="brand-name">Suntisfy · Popfun</span>
+  <span style="color:#e0d5cd;">·</span>
+  <span class="brand-name" style="font-size:1rem; color:#b5785a;">小红书 Creator</span>
+</div>
+
+<!-- PROJECT 1 — CAPSTONE -->
+<div class="row mb-5" id="mein3d-capstone">
+  <div class="col-12 mb-3">
+    <p class="section-eyebrow">Capstone Project · 2025–Present</p>
+    <h2 class="section-title" style="font-size:2rem;">
+      From Clicks to Conversions:<br>AI-Powered Email Personalization for MEin3D
+    </h2>
+    <div class="section-divider"></div>
+  </div>
+  
+  <div class="col-lg-8">
+    <p style="font-size:1rem; color:#4a4646; line-height:1.85; margin-bottom:1.25rem;">
+      MEin3D is a 3D scanning and printing studio that turns real people into custom figurines — 
+      capturing memories, milestones, and moments. As Digital Marketing & Analytics Lead on this 
+      university-sponsored capstone, I was brought in to diagnose a critical problem: high traffic 
+      but low form submissions.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:2rem; margin-bottom:0.75rem;">The Challenge</h3>
+    <p style="font-size:0.95rem; color:#4a4646; line-height:1.8;">
+      Users were arriving at the site but dropping off before completing appointment requests. 
+      The company needed to understand <em>why</em> — and build a scalable strategy to fix it.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:2rem; margin-bottom:0.75rem;">My Approach</h3>
+    <ul style="font-size:0.92rem; color:#4a4646; line-height:2; padding-left:1.2rem;">
+      <li>Conducted full <strong>funnel analysis</strong> in GA4 to identify exact drop-off points</li>
+      <li>Built foundational <strong>analytics infrastructure</strong> — GA4 setup, event tracking, conversion goals</li>
+      <li>Designed AI-powered <strong>email personalization strategy</strong> using behavioral segmentation</li>
+      <li>Recommended A/B testing framework for subject lines, CTAs, and send-time optimization</li>
+      <li>Aligned digital strategy with in-person events at <strong>Ontario Mills & LA Comic Con</strong> (10,000+ attendees)</li>
+    </ul>
+    
+    <div class="pull-quote mt-4">
+      "The goal wasn't just more emails — it was the right message to the right person at the 
+      exact moment they were ready to say yes."
+    </div>
+    
+    <h3 style="font-size:1.2rem; margin-top:2rem; margin-bottom:0.75rem;">Key Deliverables</h3>
+    <div class="row g-3 mb-3">
+      <div class="col-sm-4">
+        <div class="metric-box">
+          <div class="metric-num">GA4</div>
+          <div class="metric-label">Analytics Infrastructure Built</div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="metric-box">
+          <div class="metric-num">10K+</div>
+          <div class="metric-label">Event Attendees Tracked</div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="metric-box">
+          <div class="metric-num">AI</div>
+          <div class="metric-label">Personalization Framework</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="card-chips mt-2">
+      <span class="chip">GA4</span>
+      <span class="chip">Funnel Analysis</span>
+      <span class="chip">AI Email Personalization</span>
+      <span class="chip">BigQuery</span>
+      <span class="chip">Conversion Optimization</span>
+      <span class="chip">Event Marketing</span>
+    </div>
+  </div>
+  
+  <div class="col-lg-4 mt-4 mt-lg-0">
+    <div style="background:#2a2828; padding:2rem; color:#faf8f5; height:100%;">
+      <p style="font-family:'DM Mono',monospace; font-size:0.6rem; letter-spacing:0.2em; color:#d4a882; margin-bottom:1rem; text-transform:uppercase;">Project Details</p>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Client</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;"><a href="https://www.mein3d.com/" target="_blank" style="color:#d4a882;">MEin3D</a> — 3D Scanning Studio</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Role</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">Digital Marketing & Analytics Lead</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Timeline</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">2025 – Present (Graduate Capstone)</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Focus Areas</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">Analytics · Email · Conversion</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Industry</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">3D Tech / Consumer Experiences</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="deco-rule">Project Two</div>
+
+<!-- PROJECT 2 — MIRACO BEAUTY -->
+<div class="row mb-5" id="miraco-beauty">
+  <div class="col-12 mb-3">
+    <p class="section-eyebrow">Ongoing · 2021–Present</p>
+    <h2 class="section-title" style="font-size:2rem;">
+      Full-Funnel Digital Strategy<br>for Miraco Beauty
+    </h2>
+    <div class="section-divider"></div>
+  </div>
+  
+  <div class="col-lg-8">
+    <p style="font-size:1rem; color:#4a4646; line-height:1.85; margin-bottom:1.25rem;">
+      <a href="https://miracobeauty.com/" target="_blank" style="color:#b5785a;">Miraco Beauty</a> is an indie, non-toxic skincare brand operated by women of color, based in 
+      Los Angeles — blending ocean-sourced ingredients with dermatologist-backed science. I joined 
+      as Digital Marketing Specialist in the brand's early growth stage and have since touched 
+      nearly every channel in their marketing stack.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:2rem; margin-bottom:0.75rem;">Content Production</h3>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8; margin-bottom:1rem;">
+      Led filming and editing of branded social media assets — skincare tutorials, product launch 
+      reveals, and lifestyle content — tailored for both Instagram Reels and TikTok formats. 
+      Maintained a consistent visual identity across platforms aligned with the brand's clean, 
+      ocean-inspired aesthetic.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:1.5rem; margin-bottom:0.75rem;">Social Media Strategy</h3>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8; margin-bottom:1rem;">
+      Managed Instagram and TikTok strategy end-to-end — content calendar planning, community 
+      engagement, hashtag strategy, and posting cadence. Aligned social promotions with product 
+      launches and seasonal campaigns for cross-channel coherence.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:1.5rem; margin-bottom:0.75rem;">Influencer & Brand Partnerships</h3>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8; margin-bottom:1rem;">
+      Executed end-to-end influencer campaigns — from identifying aligned creators and managing 
+      outreach, to drafting briefs, coordinating product sends, and monitoring performance. 
+      Expanded brand visibility and customer acquisition through authentic partnership storytelling.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:1.5rem; margin-bottom:0.75rem;">SEO & Website Optimization</h3>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8; margin-bottom:1rem;">
+      Coordinated with an external SEO agency on on-page optimization, blog content strategy, 
+      keyword implementation, and UX improvements. Oversaw content updates and ensured the 
+      website aligned with both brand voice and search intent.
+    </p>
+    
+    <h3 style="font-size:1.2rem; margin-top:1.5rem; margin-bottom:0.75rem;">Email Marketing</h3>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8; margin-bottom:1rem;">
+      Supported email campaign development tied to product launches, seasonal promotions, and 
+      cross-channel traffic drivers. Contributed to paid social strategy and overall campaign 
+      optimization.
+    </p>
+    
+    <div class="card-chips mt-3">
+      <span class="chip">Instagram</span>
+      <span class="chip">TikTok</span>
+      <span class="chip">Video Production</span>
+      <span class="chip">Influencer Marketing</span>
+      <span class="chip">Blog SEO</span>
+      <span class="chip">On-Page SEO</span>
+      <span class="chip">Email Marketing</span>
+      <span class="chip">Paid Social</span>
+      <span class="chip">Content Calendar</span>
+    </div>
+  </div>
+  
+  <div class="col-lg-4 mt-4 mt-lg-0">
+    <div style="background:#2a2828; padding:2rem; color:#faf8f5; height:100%;">
+      <p style="font-family:'DM Mono',monospace; font-size:0.6rem; letter-spacing:0.2em; color:#d4a882; margin-bottom:1rem; text-transform:uppercase;">Project Details</p>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Client</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;"><a href="https://miracobeauty.com/" target="_blank" style="color:#d4a882;">Miraco Beauty</a> — Indie Skincare</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Role</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">Digital Marketing Specialist</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Timeline</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">2021 – Present</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Channels</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">Social · SEO · Email · Influencer · Video</p>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <p style="font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:#8c7b72; margin:0;">Industry</p>
+        <p style="font-size:0.95rem; color:#faf8f5; margin:0;">Beauty / Skincare (DTC)</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="deco-rule">Project Three</div>
+
+<!-- PROJECT 3 — SUNTISFY / POPFUN -->
+<div class="row mb-5" id="popfun">
+  <div class="col-12 mb-3">
+    <p class="section-eyebrow">2021–2022</p>
+    <h2 class="section-title" style="font-size:2rem;">
+      Social Media & Email at Suntisfy Inc (Popfun)
+    </h2>
+    <div class="section-divider"></div>
+  </div>
+  
+  <div class="col-lg-8">
+    <p style="font-size:1rem; color:#4a4646; line-height:1.85; margin-bottom:1.25rem;">
+      As Social Media & Email Marketing Coordinator at Popfun (by Suntisfy), I built and executed 
+      campaigns that connected product moments to audience action — through email and daily 
+      social media management.
+    </p>
+    
+    <ul style="font-size:0.92rem; color:#4a4646; line-height:2; padding-left:1.2rem;">
+      <li>Wrote and built promotional email campaigns for product launches and seasonal sales, contributing to consistent revenue lift</li>
+      <li>Conducted A/B testing on subject lines and email copy, optimizing for open rate and click-through performance</li>
+      <li>Managed daily Instagram content publishing and community engagement</li>
+      <li>Aligned social promotions with email campaigns to drive coordinated cross-channel traffic</li>
+    </ul>
+    
+    <div class="card-chips mt-3">
+      <span class="chip">Email Marketing</span>
+      <span class="chip">A/B Testing</span>
+      <span class="chip">Instagram</span>
+      <span class="chip">Copywriting</span>
+      <span class="chip">Cross-Channel</span>
+    </div>
+  </div>
+</div>
+
+<div class="deco-rule">Content Creator</div>
+
+<!-- XIAOHONGSHU -->
+<div class="row mb-4" id="rednote">
+  <div class="col-12 mb-3">
+    <p class="section-eyebrow">Personal · Ongoing</p>
+    <h2 class="section-title" style="font-size:2rem;">
+      Xiaohongshu (RED) Content Creator
+    </h2>
+    <div class="section-divider"></div>
+  </div>
+  <div class="col-lg-8">
+    <p style="font-size:1rem; color:#4a4646; line-height:1.85; margin-bottom:1rem;">
+      Outside of client work, I create lifestyle and beauty content on 
+      <a href="https://xhslink.com/m/93G7Bgn7Pfi" target="_blank" style="color:#b5785a;">小红书 (Xiaohongshu / RED)</a> — 
+      China's leading social commerce and lifestyle platform with over 300 million users. 
+    </p>
+    <p style="font-size:0.92rem; color:#4a4646; line-height:1.8;">
+      This gives me firsthand understanding of cross-cultural content strategy, Chinese consumer 
+      behavior, and platform-native formats — a rare and valuable lens for brands looking to 
+      expand into Chinese-speaking markets or connect with diaspora audiences.
+    </p>
+    <a href="https://xhslink.com/m/93G7Bgn7Pfi" target="_blank" class="btn-outline-custom mt-3" style="display:inline-block;">
+      Visit My RED Profile →
+    </a>
+  </div>
+</div>
+
+</div>
+</div>
+```

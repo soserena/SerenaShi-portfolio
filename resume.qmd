@@ -1,0 +1,145 @@
+---
+title: "Résumé"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <p class="page-eyebrow">Curriculum Vitae</p>
+    <h1>Serena Shi</h1>
+    <p class="page-subtitle">
+      Digital Marketing Specialist · M.S. Digital Marketing Candidate<br>
+      <a href="mailto:serenashi772010@gmail.com" style="color:#d4a882;">serenashi772010@gmail.com</a> ·
+      +1 415-699-8698 · Pomona, CA · U.S. Work Authorization
+    </p>
+  </div>
+</section>
+
+<div style="background:#faf8f5; padding:5rem 0;">
+<div class="container" style="max-width:900px;">
+```
+
+## Summary
+
+Graduate digital marketing candidate transitioning from hands-on content and growth marketing into data-driven strategy. Experienced in social media management, influencer partnerships, and SEO coordination, with a strong foundation in campaign execution and performance optimization. Bilingual in English and Mandarin — offering unique insight into both Western and Chinese digital markets. Passionate about turning customer behavior insights into smarter targeting, messaging, and conversion-focused marketing.
+
+---
+
+## Education
+
+```{=html}
+<div class="timeline-item">
+  <div class="timeline-date">2024 – 2026</div>
+  <div class="timeline-title">M.S. Digital Marketing (STEM-Designated)</div>
+  <div class="timeline-org">California State Polytechnic University, Pomona — Singelyn Graduate School of Business</div>
+  <ul>
+    <li>Concentration in data-driven marketing strategy, analytics, and campaign measurement</li>
+    <li>Graduate Capstone: AI-Powered Email Personalization for MEin3D</li>
+    <li>Tools: R, Quarto, GA4, BigQuery, Tableau, SQL</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2022 – 2024</div>
+  <div class="timeline-title">B.A. Music Industry Studies</div>
+  <div class="timeline-org">California State Polytechnic University, Pomona</div>
+  <ul>
+    <li>Foundation in entertainment marketing, audience engagement, and creative brand storytelling</li>
+  </ul>
+</div>
+```
+
+---
+
+## Work Experience
+
+```{=html}
+<div class="timeline-item">
+  <div class="timeline-date">2025 – Present</div>
+  <div class="timeline-title">Digital Marketing & Analytics Lead</div>
+  <div class="timeline-org">MEin3D · University-Sponsored Capstone Project</div>
+  <ul>
+    <li>Initiated and led a university-sponsored capstone to diagnose website conversion issues, conducting funnel analysis to identify drop-offs and design a strategy to improve form submission rates</li>
+    <li>Implemented foundational analytics infrastructure — supporting GA4 setup, performance tracking, and basic data analysis to prepare the company for scalable, insight-driven growth</li>
+    <li>Designed AI-powered email personalization framework using behavioral segmentation to increase appointment conversions</li>
+    <li>Supported pop-up activations at Ontario Mills and LA Comic Con (10,000+ attendees), aligning digital tracking strategy with in-person customer acquisition</li>
+    <li>Led content production, including filming and editing branded social media assets to support product launches and campaigns</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2021 – Present</div>
+  <div class="timeline-title">Digital Marketing Specialist</div>
+  <div class="timeline-org">Miraco Beauty (Startup) · miracobeauty.com</div>
+  <ul>
+    <li>Managed Instagram and TikTok strategy — content calendars, engagement, and audience growth aligned with campaign objectives</li>
+    <li>Led and collaborated on content production, including filming and editing branded social media assets to support product launches and promotional campaigns</li>
+    <li>Executed influencer and brand partnership campaigns from outreach to performance monitoring, expanding brand visibility and customer acquisition</li>
+    <li>Coordinated with an external SEO agency to improve website optimization, oversee content updates, and enhance overall user experience</li>
+    <li>Supported paid social and email initiatives, contributing to campaign optimization and cross-channel growth strategy</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2021 – 2022</div>
+  <div class="timeline-title">Social Media & Email Marketing Coordinator</div>
+  <div class="timeline-org">Suntisfy Inc (Popfun)</div>
+  <ul>
+    <li>Wrote and built promotional email campaigns supporting product launches and seasonal sales, contributing to consistent revenue lift</li>
+    <li>Conducted A/B testing on subject lines and messaging, optimizing campaigns based on open and click-through performance</li>
+    <li>Managed daily Instagram content publishing and engagement, aligning social promotions with email campaigns to drive cross-channel traffic</li>
+  </ul>
+</div>
+```
+
+---
+
+## Technical Skills
+
+```{=html}
+<div class="skills-grid">
+  <div class="skill-block">
+    <div class="skill-label">Analytics & Data</div>
+    <div class="skill-items">GA4 · Meta Analytics · SQL · BigQuery · R · Tableau · Funnel Analysis · A/B Testing</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Advertising & Growth</div>
+    <div class="skill-items">Meta Ads Manager · Google Ads · Campaign Optimization · Conversion Strategy</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Email & CRM</div>
+    <div class="skill-items">Email Campaign Development · Segmentation · A/B Testing · Performance Tracking</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Social & Content</div>
+    <div class="skill-items">Instagram · TikTok · Xiaohongshu (RED) · Influencer Campaigns · Video Production & Editing</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">SEO & Web</div>
+    <div class="skill-items">On-Page SEO · Blog SEO Coordination · Website Optimization · UX Collaboration</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Languages</div>
+    <div class="skill-items">English (Fluent) · Mandarin Chinese (Native)</div>
+  </div>
+</div>
+```
+
+---
+
+## Additional
+
+- **Content Creator** — Xiaohongshu (RED): Lifestyle and beauty content for Chinese-speaking audiences  
+- **Part-time Barista** — Boba tea craftsmanship and customer experience
+- **U.S. Work Authorization** — Eligible to work in the United States
+
+```{=html}
+<div style="margin-top:3rem; text-align:center;">
+  <a href="mailto:serenashi772010@gmail.com" class="btn-primary-custom">Get In Touch</a>
+</div>
+</div>
+</div>
+```

@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: 'DM Sans', sans-serif;
+$presentation-heading-font: 'Cormorant Garamond', serif;
+$presentation-heading-color: #2a2828;
+$body-color: #2a2828;
+$link-color: #b5785a;
+$presentation-h1-font-size: 2.4em;
+$presentation-h2-font-size: 1.8em;
+$presentation-h3-font-size: 1.3em;
+
+/*-- scss:rules --*/
+.reveal {
+  background: #faf8f5;
+  
+  h1, h2, h3 {
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 0.02em;
+  }
+  
+  .slide-number {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+  }
+  
+  .footer {
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    color: #8c7b72;
+  }
+  
+  table {
+    font-size: 0.8em;
+    th { background: #2a2828; color: #faf8f5; }
+  }
+}

@@ -1,0 +1,137 @@
+---
+title: "Presentation"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <p class="page-eyebrow">RevealJS Presentation</p>
+    <h1>From Clicks to Conversions</h1>
+    <p class="page-subtitle">
+      AI-Powered Email Personalization Strategies for MEin3D — 
+      A data-driven analysis of conversion optimization in the 3D scanning industry.
+    </p>
+  </div>
+</section>
+
+<div style="background:#faf8f5; padding:5rem 0;">
+<div class="container">
+```
+
+## About This Presentation
+
+This RevealJS presentation was created as part of the **M.S. Digital Marketing Capstone** at Cal Poly Pomona. It synthesizes research, data analysis, and strategic recommendations for MEin3D — demonstrating the intersection of AI, behavioral data, and email marketing.
+
+::: {.callout-tip title="How to View"}
+Click the button below to launch the full interactive RevealJS presentation, or scroll down to read a summary of key slides and insights.
+:::
+
+```{=html}
+<div style="margin:2rem 0;">
+  <a href="slides/presentation.html" target="_blank" class="btn-primary-custom">Launch Full Presentation →</a>
+</div>
+```
+
+---
+
+## Slide Overview
+
+```{=html}
+<div class="row g-3 mt-2">
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">01</div>
+      <h3>The Problem</h3>
+      <p>High website traffic, low appointment conversions. What's breaking the funnel?</p>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">02</div>
+      <h3>Data Methodology</h3>
+      <p>GA4 implementation, event tracking setup, and funnel analysis framework.</p>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">03</div>
+      <h3>Funnel Analysis</h3>
+      <p>Drop-off visualization across five stages: from landing page to form submission.</p>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">04</div>
+      <h3>AI Personalization</h3>
+      <p>How behavioral segmentation enables targeted email messaging.</p>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">05</div>
+      <h3>Email Strategy</h3>
+      <p>Segment-specific messaging frameworks and projected conversion lift.</p>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="slide-preview">
+      <div class="slide-num">06</div>
+      <h3>Results & Roadmap</h3>
+      <p>Projected lift by segment and 90-day implementation plan.</p>
+    </div>
+  </div>
+</div>
+```
+
+---
+
+## Key Insights
+
+### The Funnel Problem
+
+MEin3D's website attracted visitors — but the path from arrival to appointment booking was leaky. The sharpest drop occurred between Pricing and the Contact form (~50% drop-off), suggesting pricing created hesitation without sufficient social proof, and no re-engagement mechanism existed to recapture warm leads.
+
+### AI-Powered Segmentation
+
+By analyzing behavioral signals, users are segmented into four audience buckets — each requiring a different email approach:
+
+| Segment | Signal | Email Angle |
+|---|---|---|
+| Gift Buyers | Holiday browsing | Make it unforgettable. |
+| Personal Memorial | Emotional content | Preserve what matters. |
+| Corporate | Long dwell time | Your team, in 3D. |
+| Re-engagement | Form abandon | You were this close. |
+
+### Recommendations
+
+1. **Immediate:** Implement GA4 conversion events
+2. **30 days:** Launch 4-email welcome/nurture sequence  
+3. **60–90 days:** Deploy AI-assisted segmentation and personalized email flows
+
+```{=html}
+<div class="pull-quote mt-4">
+  "The goal isn't to send more email. It's to send the email that makes someone think, 
+  'this was written just for me.'"
+</div>
+
+<div class="skills-grid mt-4">
+  <div class="skill-block">
+    <div class="skill-label">Presentation Tool</div>
+    <div class="skill-items">Quarto RevealJS</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Data Source</div>
+    <div class="skill-items">GA4 · Behavioral Modeling</div>
+  </div>
+  <div class="skill-block">
+    <div class="skill-label">Methods</div>
+    <div class="skill-items">Funnel Analysis · Segmentation · A/B Testing</div>
+  </div>
+</div>
+
+</div>
+</div>
+```

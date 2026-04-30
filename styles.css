@@ -1,0 +1,141 @@
+/* styles.css - supplemental styles */
+
+/* Fade-in animation */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-up {
+  animation: fadeUp 0.7s ease both;
+}
+.fade-up-d1 { animation-delay: 0.1s; }
+.fade-up-d2 { animation-delay: 0.2s; }
+.fade-up-d3 { animation-delay: 0.35s; }
+.fade-up-d4 { animation-delay: 0.5s; }
+.fade-up-d5 { animation-delay: 0.65s; }
+
+/* Decorative rule */
+.deco-rule {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 3rem 0;
+  color: #c8bfb8;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-family: 'DM Mono', monospace;
+}
+.deco-rule::before,
+.deco-rule::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: #e0d5cd;
+}
+
+/* Reveal slide preview card */
+.slide-preview {
+  background: #1a1818;
+  border-radius: 0;
+  overflow: hidden;
+  padding: 2rem;
+  color: #faf8f5;
+  position: relative;
+}
+
+.slide-preview .slide-num {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  color: #d4a882;
+  margin-bottom: 0.5rem;
+}
+
+.slide-preview h3 {
+  color: #faf8f5;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.slide-preview p {
+  color: #a09890;
+  font-size: 0.85rem;
+}
+
+/* Metric callout boxes */
+.metric-box {
+  background: #fff;
+  border: 1px solid #ede6df;
+  border-top: 3px solid #b5785a;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.metric-box .metric-num {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: #b5785a;
+  line-height: 1;
+}
+
+.metric-box .metric-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #8c7b72;
+  margin-top: 0.4rem;
+}
+
+/* Brand logos strip */
+.brand-strip {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  padding: 2rem 0;
+  border-top: 1px solid #e0d5cd;
+  border-bottom: 1px solid #e0d5cd;
+}
+
+.brand-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #8c7b72;
+  letter-spacing: 0.05em;
+  transition: color 0.2s;
+}
+
+.brand-name:hover { color: #b5785a; }
+
+/* Quote pull */
+.pull-quote {
+  border-left: 3px solid #b5785a;
+  padding: 1rem 2rem;
+  margin: 2rem 0;
+  background: #faf8f5;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #4a4646;
+  line-height: 1.6;
+}
+
+/* Nav active state fix */
+.nav-link.active {
+  color: #b5785a !important;
+  font-weight: 400;
+}
+
+/* Footer */
+.nav-footer {
+  background: #2a2828 !important;
+  color: #c8bfb8;
+  font-size: 0.8rem;
+  padding: 1.5rem 0;
+  border-top: none !important;
+}
+.nav-footer a { color: #d4a882; }

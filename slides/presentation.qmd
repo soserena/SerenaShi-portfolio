@@ -1,0 +1,231 @@
+---
+title: "From Clicks to Conversions"
+subtitle: "AI-Powered Email Personalization Strategies for MEin3D"
+author: "Serena Shi"
+institute: "M.S. Digital Marketing · Cal Poly Pomona"
+date: "2025"
+format:
+  revealjs:
+    theme: [default, slides-theme.scss]
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    footer: "Serena Shi · From Clicks to Conversions · Cal Poly Pomona MSDM"
+    width: 1280
+    height: 720
+---
+
+## The Challenge {background-color="#2a2828"}
+
+::: {.incremental}
+- MEin3D offers a unique experience: custom 3D-printed figurines from real body scans
+- **High traffic. Low conversions.**
+- Users were arriving — and leaving before booking an appointment
+- No email follow-up. No behavioral targeting. No second chance.
+:::
+
+::: {.fragment}
+> *"We were leaving money — and memories — on the table."*
+:::
+
+---
+
+## Research Questions
+
+1. **Where** in the funnel are users dropping off?
+2. **Why** are they not completing the appointment form?
+3. **How** can AI-powered email personalization close the gap?
+
+---
+
+## Methodology {background-color="#f5f0ec"}
+
+### Analytics Infrastructure Built
+
+::: {.columns}
+::: {.column width="50%"}
+**Data Collection**
+
+- GA4 implementation from scratch
+- Custom event tracking: page views, scroll depth, CTA clicks, form starts
+- Funnel exploration reports
+:::
+
+::: {.column width="50%"}
+**Analysis Approach**
+
+- Drop-off analysis at each funnel stage
+- Behavioral segmentation modeling
+- Email framework design by segment
+:::
+:::
+
+---
+
+## Conversion Funnel {background-color="#faf8f5"}
+
+```{=html}
+<div style="padding:1rem 0;">
+  <div style="display:flex; flex-direction:column; gap:0.6rem;">
+    <div>
+      <div style="display:flex; justify-content:space-between; margin-bottom:0.2rem; font-size:0.85rem;">
+        <span>Landing Page</span><span style="color:#b5785a;">1,000 (100%)</span>
+      </div>
+      <div style="background:#e8d8cc; height:32px; width:100%;"></div>
+    </div>
+    <div>
+      <div style="display:flex; justify-content:space-between; margin-bottom:0.2rem; font-size:0.85rem;">
+        <span>Services</span><span style="color:#b5785a;">640 (64%)</span>
+      </div>
+      <div style="background:#d4a882; height:32px; width:64%;"></div>
+    </div>
+    <div>
+      <div style="display:flex; justify-content:space-between; margin-bottom:0.2rem; font-size:0.85rem;">
+        <span>Pricing</span><span style="color:#b5785a;">380 (38%)</span>
+      </div>
+      <div style="background:#c49078; height:32px; width:38%;"></div>
+    </div>
+    <div>
+      <div style="display:flex; justify-content:space-between; margin-bottom:0.2rem; font-size:0.85rem;">
+        <span>Contact Form</span><span style="color:#b5785a;">190 (19%)</span>
+      </div>
+      <div style="background:#b5785a; height:32px; width:19%;"></div>
+    </div>
+    <div>
+      <div style="display:flex; justify-content:space-between; margin-bottom:0.2rem; font-size:0.85rem;">
+        <span>Submission ✓</span><span style="color:#2a2828; font-weight:600;">52 (5.2%)</span>
+      </div>
+      <div style="background:#2a2828; height:32px; width:5.2%;"></div>
+    </div>
+  </div>
+  <p style="font-size:0.65rem; color:#8c7b72; margin-top:0.75rem; font-style:italic;">* Illustrative data for educational purposes.</p>
+</div>
+```
+
+---
+
+## Key Drop-Off Points
+
+| Stage | Drop-Off | Primary Cause |
+|-------|:---:|---|
+| Landing → Services | 36% | Unclear value proposition |
+| Services → Pricing | 41% | Transparency gap |
+| Pricing → Form | 50% | No nurturing / urgency |
+| Form → Submission | 73% | Friction in completion |
+
+::: {.fragment}
+**The biggest opportunity:** Recapture users who reached Pricing but didn't convert.
+:::
+
+---
+
+## AI Personalization Framework {background-color="#2a2828"}
+
+| Segment | Behavioral Signal | Email Angle |
+|---|---|---|
+| Gift Buyers | Holiday browsing | *Make it unforgettable.* |
+| Personal Memorial | Emotional content pages | *Preserve what matters.* |
+| Corporate | Long dwell + multi-session | *Your team, in 3D.* |
+| Re-engagement | Form abandon / bounce | *You were this close.* |
+
+---
+
+## Projected Lift by Segment
+
+```{=html}
+<div style="display:flex; flex-direction:column; gap:1rem; padding:1rem 0;">
+  <div>
+    <div style="display:flex; justify-content:space-between; margin-bottom:0.3rem; font-size:0.9rem;">
+      <span>Re-engagement</span><span style="color:#b5785a;">+31%</span>
+    </div>
+    <div style="background:#2a2828; height:36px; width:82%; display:flex; align-items:center; padding-left:1rem;">
+      <span style="color:#faf8f5; font-size:0.8rem;">+31%</span>
+    </div>
+  </div>
+  <div>
+    <div style="display:flex; justify-content:space-between; margin-bottom:0.3rem; font-size:0.9rem;">
+      <span>Personal Memorial</span><span style="color:#b5785a;">+24%</span>
+    </div>
+    <div style="background:#b5785a; height:36px; width:63%; display:flex; align-items:center; padding-left:1rem;">
+      <span style="color:#faf8f5; font-size:0.8rem;">+24%</span>
+    </div>
+  </div>
+  <div>
+    <div style="display:flex; justify-content:space-between; margin-bottom:0.3rem; font-size:0.9rem;">
+      <span>Gift Buyers</span><span style="color:#b5785a;">+18%</span>
+    </div>
+    <div style="background:#c49078; height:36px; width:48%; display:flex; align-items:center; padding-left:1rem;">
+      <span style="color:#faf8f5; font-size:0.8rem;">+18%</span>
+    </div>
+  </div>
+  <div>
+    <div style="display:flex; justify-content:space-between; margin-bottom:0.3rem; font-size:0.9rem;">
+      <span>Corporate</span><span style="color:#b5785a;">+15%</span>
+    </div>
+    <div style="background:#d4a882; height:36px; width:40%; display:flex; align-items:center; padding-left:1rem;">
+      <span style="color:#2a2828; font-size:0.8rem;">+15%</span>
+    </div>
+  </div>
+</div>
+```
+
+---
+
+## The 90-Day Roadmap
+
+::: {.columns}
+::: {.column width="33%"}
+### Days 1–30
+**Foundation**
+
+- GA4 full configuration
+- Form event tracking
+- Segment identification
+- Baseline metrics set
+:::
+
+::: {.column width="33%"}
+### Days 31–60
+**Launch**
+
+- 4-email nurture sequence
+- A/B test subject lines
+- Re-engagement flow
+:::
+
+::: {.column width="33%"}
+### Days 61–90
+**Optimize**
+
+- AI segmentation deployed
+- Personalized flows per audience
+- Monthly performance review
+:::
+:::
+
+---
+
+## Key Takeaways {background-color="#b5785a"}
+
+::: {.incremental}
+1. **The funnel is leaky — but fixable.**
+2. **Generic email doesn't work.** Behavioral segmentation creates 1:1 conversations.
+3. **AI personalization is not a luxury.** For a small brand, it's the edge.
+4. **Data infrastructure comes first.** You can't personalize what you can't measure.
+:::
+
+---
+
+## Thank You {background-color="#2a2828"}
+
+::: {style="text-align:center; padding:2rem;"}
+**Serena Shi**  
+M.S. Digital Marketing Candidate · Cal Poly Pomona
+
+📧 serenashi772010@gmail.com  
+🔗 LinkedIn · 🌏 小红书 RED
+
+::: {style="margin-top:2rem; font-style:italic; color:#d4a882;"}
+*"Turn curiosity into conversion."*
+:::
+:::
